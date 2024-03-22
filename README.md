@@ -1,1 +1,1 @@
-# huggingface
+# HuggingFace course on nlp
